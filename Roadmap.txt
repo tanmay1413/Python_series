@@ -1,0 +1,255 @@
+📅 Week 1 – Python Core Concepts
+  ✅ Day 1: Data Types & Variables
+      🔍 Learn
+      Basic data types: int, float, str, bool
+
+      Collections: list, tuple, set, dict
+
+      Type casting: int(), str(), etc.
+
+      Variable naming rules and dynamic typing
+
+      💻 Practice
+      Write a program to:
+
+        Swap two variables
+  
+        Calculate the average of 3 numbers
+  
+        Count unique characters in a string using a set
+  
+      Hackerrank/CodingBat: 5 problems on string/list basics
+
+  ✅ Day 2: Control Flow (Conditions & Loops)
+      🔍 Learn
+      if, elif, else
+
+      for and while loops
+
+      break, continue, pass
+
+      💻 Practice
+      Write:
+
+      Even or odd checker
+
+      Prime number checker
+
+      Multiplication table
+
+      Print patterns: right-angle triangle, pyramid
+
+      5 LeetCode Easy problems on loops and conditions
+
+  ✅ Day 3: Functions
+      🔍 Learn
+      Defining functions, parameters, return values
+
+      *args and **kwargs
+
+      Default parameters
+
+      Variable scope: local vs global
+
+      💻 Practice
+      Create:
+
+      A calculator using functions
+
+      A function to count vowels
+
+      Recursive factorial function
+
+      LeetCode/Hackerrank: 4 problems using functions
+
+  ✅ Day 4: Strings & Lists
+      🔍 Learn
+      String methods: lower(), strip(), split(), replace(), slicing
+
+      List methods: append(), insert(), pop(), sort(), slicing
+
+      List comprehension
+
+      💻 Practice
+      String reverse and palindrome checker
+
+      Count frequency of characters in a string
+
+      Convert list of integers into string
+
+      Practice: 6 CodingBat string/list problems
+
+  ✅ Day 5: Dictionaries & Sets
+      🔍 Learn
+      Dict: key-value pairs, get(), items(), update()
+
+      Set: uniqueness, union, intersection
+
+      Use cases: frequency counters, mapping
+
+      💻 Practice
+      Create:
+
+      Word counter using dictionary
+
+      Remove duplicates using set
+
+      Frequency counter using dict
+
+      Practice 5 HackerRank problems on dict/set
+
+  ✅ Day 6: File Handling
+      🔍 Learn
+      Opening files: open(), modes (r, w, a)
+
+      Reading/writing lines
+
+      Using with open() to avoid closing files manually
+
+      💻 Practice
+      Read a file and:
+
+      Count lines and words
+
+      Store into another file in uppercase
+
+      Log user activity into a log.txt file
+
+  ✅ Day 7: Weekly Review & Mini Quiz
+      💻 Activities
+      Revise:
+
+      Notes or code snippets from Days 1–6
+
+      Practice:
+
+      10 problem quiz (MCQs or coding)
+
+      Re-solve 3 problems you struggled with
+
+      Bonus Task:
+
+      Create a CLI app that takes user input and performs any of the above tasks (calculator, word counter)
+
+📅 Week 2 – OOP, Error Handling & Mini Project
+  ✅ Day 8: OOP – Basics
+    🔍 Learn
+    Class, object
+
+    __init__, self, instance vs class variables
+
+    Method types
+
+    💻 Practice
+    Create:
+
+    Student class with name, age
+
+    BankAccount class with deposit and withdraw methods
+
+    Practice OOP problems on CodingBat or Replit
+
+  ✅ Day 9: OOP – Inheritance & Polymorphism
+    🔍 Learn
+    Single/multilevel inheritance
+
+    super(), method overriding
+
+    Polymorphism using method names
+
+    💻 Practice
+    Vehicle class → Car, Bike classes
+
+    Animal class with speak method (override in Dog, Cat)
+
+    Try LeetCode problems using class-based logic
+
+  ✅ Day 10: OOP – Encapsulation & Abstraction
+    🔍 Learn
+    Access modifiers: _protected, __private
+
+    @property, setters
+
+    Abstract classes using ABC module
+
+    💻 Practice
+    Create:
+
+    User class with private password
+
+    Abstract Shape class with area()
+
+    Build a login system using encapsulation
+
+  ✅ Day 11: Exception Handling
+    🔍 Learn
+    try, except, else, finally
+
+    Handling specific exceptions
+
+    Raising custom exceptions
+
+    💻 Practice
+    Divide by zero with error handling
+
+    Read from a missing file
+
+    Raise ValueError for invalid input
+
+    HackerRank: 5 problems on error handling
+
+  ✅ Day 12: Modules & Packages
+    🔍 Learn
+    Built-in modules: math, datetime, random, os
+
+    Importing from another .py file
+
+    Writing your own module
+
+    💻 Practice
+    OTP generator using random
+
+    Get current date and time
+
+    Create a custom module for greetings
+
+  ✅ Day 13: Mini Project
+    🎯 Choose one:
+    ✅ To-Do CLI App
+
+    ✅ Quiz App with score
+
+    ✅ Contact Book with file storage
+
+    ✅ Expense Tracker (simple CSV file)
+
+    Build using:
+
+    Functions
+
+    File handling
+
+    OOP (if possible)
+
+  ✅ Day 14: Full Mock Test + Final Review
+    💻 Test
+    MCQ + Coding test (20 questions total)
+
+    Focus on weak areas from the past 2 weeks
+
+    📌 Wrap-up
+    Review your own code
+
+    List top 5 things you improved
+
+    Identify what to revise again in a week
+
+🛠️ Tools for Practice:
+  LeetCode Python
+
+  HackerRank Python
+
+  CodingBat Python
+
+  Replit – run your Python code online
+
