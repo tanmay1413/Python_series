@@ -71,9 +71,4 @@ nums = list(set(nums))
 print("Unique list : ",nums)
     
     
-# Tuples: ordered, immutable collections of items, e.g. (1, 2)
-
-
-   # Sets: unordered collections of unique items, e.g. {1, 2,}  
-   # Dictionaries: unordered collections of key-value pairs, e.g. {"a": 1, "b":2}
    
